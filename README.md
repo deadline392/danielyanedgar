@@ -6,8 +6,8 @@
 
 ## 🛠 Мой стек технологий
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
-![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
+![JavaScript](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=html)
+![React](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)
 
