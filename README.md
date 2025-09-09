@@ -12,4 +12,4 @@
 
 ## 📫 Как со мной связаться
 
-[!Telegram]([https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/your_telegram](http://t.me/Edgar3516)
+Telegram([https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/your_telegram](http://t.me/Edgar3516)
